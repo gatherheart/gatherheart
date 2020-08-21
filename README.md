@@ -1,7 +1,7 @@
 ### GatherHeart's space is HERE 💻
   [gatherheart.space](http://gatherheart.space)
 <p align="center">
-  <img width="1050" resize='cover' src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg">
+  <a href="http://gatherheart.space"><img src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg" height="150" width="1000"></a>
 </p>
 <h4> React, React Native, Node js, Typescirpt <br />
 ML, DL, Pytorch, Flask <br />
