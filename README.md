@@ -1,11 +1,13 @@
 ### GatherHeart's space is HERE 💻
   [gatherheart.space](http://gatherheart.space)
-
+<p align="center">
+  <img width="1050" resize='cover' src="https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg">
+</p>
 <h4> React, React Native, Node js, Typescirpt <br />
-ML, DL, Pytorch <br />
+ML, DL, Pytorch, Flask <br />
 Blockchain, Solidity <br />
 Network, GraphQL, REST API <br /> 
-Android <h4/>
+Android NS3 Docker and so on<h4/>
 
 <!--
 **gatherheart/gatherheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
