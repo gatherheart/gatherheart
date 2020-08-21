@@ -5,7 +5,7 @@
 ML, DL, Pytorch <br />
 Blockchain, Solidity <br />
 Network, GraphQL, REST API <br /> 
-Android <br /> <h4/>
+Android <h4/>
 
 <!--
 **gatherheart/gatherheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
