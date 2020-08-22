@@ -1,8 +1,5 @@
 ### GatherHeart's space is HERE 💻
   [gatherheart.space](http://gatherheart.space)
-<p align="center">
-  <a href="http://gatherheart.space"><img src="https://raw.githubusercontent.com/gatherheart/gatherheart/master/images/undraw_Team_page_re_cffb2.png" height="200"></a>
-</p>
 <h4> React, React Native, Node js, Typescirpt <br />
 ML, DL, Pytorch, Flask <br />
 Blockchain, Solidity <br />
