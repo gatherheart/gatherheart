@@ -6,8 +6,6 @@ Blockchain, Solidity <br />
 Network, GraphQL, REST API <br /> 
 Android NS3 Docker and so on<h4/>
 
-49 66 20 79 6f 75 20 77 61 6e 6e 61 20 63 6f 6e 74 61 63 74 20 6d 65 2c 20 70 6c 65 61 73 65 20 76 69 73 69 74 20 74 68 65 20 73 69 74 65 20 61 6e 64 20 65 6d 61 69 6c 20 6d 65 2e
-
 <!--
 **gatherheart/gatherheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
