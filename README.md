@@ -1,10 +1,9 @@
-### GatherHeart's space is HERE 💻
-  [gatherheart.space](http://gatherheart.space)
-<h4> React, React Native, Node js, Typescirpt <br />
-ML, DL, Pytorch, Flask <br />
-Blockchain, Solidity <br />
-Network, GraphQL, REST API <br /> 
-Android NS3 Docker and so on<h4/>
+### Always Gather Heart 💻
+<h4> Swift, React, React Native, Node js, Typescirpt <br>
+Android, ML, DL, Pytorch, Flask <br>
+Blockchain, Solidity, Network <br>
+GraphQL, REST API, NS3 Docker and so on <br> 
+<h4/>
 
 <!--
 **gatherheart/gatherheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
