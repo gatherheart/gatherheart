@@ -1,5 +1,5 @@
 ### Always Gather Heart 💻
-<h4> Swift, React, React Native, Node js, Typescirpt <br>
+<h4> Swift, React, React Native, Node js, Typescript <br>
 Android, ML, DL, Pytorch, Flask <br>
 Blockchain, Solidity, Network <br>
 GraphQL, REST API, NS3 Docker and so on <br> 
